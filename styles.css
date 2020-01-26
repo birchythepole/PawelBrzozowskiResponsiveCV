@@ -1,0 +1,98 @@
+body{
+  font-family: 'Baloo', cursive;
+}
+h2{
+  font-family: 'Baloo', cursive;
+  margin: 0 3% 4% 3%;
+}
+.header{
+background-color: #1b262c;
+padding: 5% 10%;
+text-align: center;
+color: #bbe1fa;
+}
+.header-image{
+  width: 65%;
+  border-radius: 75px;
+}
+.header-list{
+  margin-top: 11%;
+  text-align: left;
+  list-style: none;
+  font-size: 2.2rem;
+  line-height: 1.5;
+}
+
+
+.jobs{
+  background-color: #0f4c75;
+  padding: 5% 10%;
+  text-align: center;
+  color: #bbe1fa;
+}
+.jobs-list{
+  text-align: center;
+  list-style: none;
+  font-size: 1.1rem;
+  padding: 0 2px 0 2px;
+  line-height: 1.5;
+}
+
+.skills{
+background-color: #1b262c;
+padding: 5% 10%;
+text-align: center;
+color: #bbe1fa;
+}
+.skills-list{
+  list-style: none;
+  text-align: center;
+  padding: 0 20px 0 20px;
+  line-height: 2;
+}
+hr{
+  border-color:  #3282b8;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  margin: 80px auto;
+  width: 15%
+}
+
+.footer{
+  text-align: center;
+background-color: #0f4c75;
+padding: 5% 10% 1% 10%;
+}
+.btn{
+  margin: 1%;
+  background-color: #1b262c;
+  border-color: #bbe1fa;
+  color: #bbe1fa;
+}
+.btn:hover{
+  background-color: #bbe1fa;
+  border-color: #1b262c;
+  color: #1b262c;
+}
+a{
+  color: #bbe1fa;
+}
+a:hover{
+  color: #92b2c7;
+  text-decoration: none;
+}
+a:visited{
+  color: #bbe1fa;
+}
+
+/* Colors
+4d606e
+3fbac2
+d3d4d8
+f5f5f5
+
+font-family: 'Press Start 2P', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Baloo', cursive;
+*/
