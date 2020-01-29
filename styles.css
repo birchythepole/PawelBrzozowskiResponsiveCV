@@ -34,6 +34,12 @@ border-bottom: solid 1px;
 .card{
   background-color:  #1b262c;
   border-color:#bbe1fa;
+  margin: 10px;
+}
+.card-header{
+    background-color:  #1b262c;
+    border-color:#bbe1fa;
+  
 }
 .jobs{
   background-color: #0f4c75;
