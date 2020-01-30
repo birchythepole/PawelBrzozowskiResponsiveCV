@@ -111,7 +111,16 @@ a:visited{
   border-color: #1b262c;
   color: #1b262c;
 }
-
+.btn-header{
+  background-color: #1b262c;
+  border-color: #bbe1fa;
+  color: #bbe1fa;
+}
+.btn-header:hover{
+  background-color: #bbe1fa;
+  border-color: #1b262c;
+  color: #1b262c;
+}
 /* Colors
 4d606e
 3fbac2
